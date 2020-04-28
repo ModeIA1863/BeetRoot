@@ -19,3 +19,9 @@ echo "alias a2path='echo "export PATH=$PWD:\$PATH" >> ~/.bashrc && source ~/.bas
 echo "alias gh='history|grep'" >> ~/.bashrc && source ~/.bashrc
 
 ```
+5) Reload bashrc
+
+```bash
+echo "alias rebash='source ~/.bashrc'" >>~/.bashrc && source ~/.bashrc
+
+```
