@@ -1,4 +1,5 @@
 ## Useful Bash aliases
+---
 
 * Create a folder named today's date (YYYY-MM-DD)
 ```
