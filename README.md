@@ -1,0 +1,2 @@
+# BeetRoot
+awesome bash aliases
