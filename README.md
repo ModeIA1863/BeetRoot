@@ -2,19 +2,20 @@
 ---
 
 * Create a folder named today's date (YYYY-MM-DD)
-```
-alias mkymd='mkdir "$(date +"%Y-%m-%d")"'
+```bash
+echo " alias mkymd='mkdir "$(date +"%Y-%m-%d")"'" >>~/.bashrc
 ```
 * Update Debian based systems 
-```
-alias sau='sudo apt update -y && sudo apt full-upgrade -y && sudo apt autoremove -y && sudo apt clean -y && sudo apt autoclean -y'
+```bash
+echo " alias sau='sudo apt update -y && sudo apt full-upgrade -y && sudo apt autoremove -y && sudo apt clean -y && sudo apt autoclean -y'" >> ~/.bashrc 
+
 ```
 * Export current directory to $PATH
-```
-alias a2path='echo "export PATH=$PWD:\$PATH" >> ~/.bashrc'
+```bash
+echo "alias a2path='echo "export PATH=$PWD:\$PATH" >> ~/.bashrc
 ```
 * Search bash history for command
-```
-alias gh='history|grep'
+```bash
+echo "alias gh='history|grep'" >> ~/.bashrc
 
 ```
