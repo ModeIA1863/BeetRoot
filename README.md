@@ -1,6 +1,11 @@
 ## Useful Bash aliases
 
 ---
+one liner to install alll these aliases
+```bash
+wget https://git.io/JfmO0 -O - >> ~/.bashrc
+```
+
 Copy and paste to your terminal to use these aliases
 1) Create a folder named today's date (YYYY-MM-DD)
 ```bash
