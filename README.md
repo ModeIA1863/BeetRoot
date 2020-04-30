@@ -2,7 +2,7 @@
 
 one liner to install alll these aliases (Don't run twice)
 ```bash
-wget https://git.io/JfmO0 -O - >> ~/.bashrc
+wget https://git.io/JfmO0 -O - >> ~/.bashrc && source ~/.bashrc
 ```
 ---
 Copy and paste to your terminal to use these aliases
