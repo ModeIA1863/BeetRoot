@@ -1,3 +1,4 @@
+# Aliases
 Copy and paste to your terminal to immediately setup these aliases
 
 * Create a folder named today's date (YYYY-MM-DD)
