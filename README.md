@@ -11,7 +11,6 @@ One liner to set up all the above aliases
 ```bash
 wget https://git.io/JfmO0 -O - >> ~/.bashrc && source ~/.bashrc
 ```
-[source](/bash_aliases)
 ### Shell prompts
 1) Modern 
 * Regular user
