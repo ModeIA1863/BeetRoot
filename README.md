@@ -6,7 +6,7 @@
 * ```gh``` - Search bash history for command
 * ```rebash``` - Reload bashrc
 
-One liner to set up all the above aliases
+One liner to set up the above aliases
 
 ```bash
 wget https://git.io/JfOhr -O - >> ~/.bashrc && source ~/.bashrc
@@ -19,5 +19,11 @@ wget https://git.io/JfOhr -O - >> ~/.bashrc && source ~/.bashrc
 * Root user
 ![](https://i.imgur.com/MFYDfV1.png)
 One liner to set up the above prompts
+```bash
+wget https://git.io/JfOhN -O - >> ~/.bashrc && source ~/.bashrc
+```
+---
 
+One liner to set everything up
 
+wget https://git.io/JfOhH -O - >> ~/.bashrc && source ~/.bashrc
