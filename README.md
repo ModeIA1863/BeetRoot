@@ -7,7 +7,8 @@
 * ```gh``` - Search bash history for command
 * ```rebash``` - Reload bashrc
 
-[source](src/alias.md)
+ [source](src/alias.md)
+
 ---
 
 ## Shell prompts
