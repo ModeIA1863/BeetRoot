@@ -10,7 +10,6 @@
 ---
 
 ## Shell prompts
-### Modern 
 * Regular user
 ![](https://i.imgur.com/V3taYed.png)
 
