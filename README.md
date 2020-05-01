@@ -1,6 +1,7 @@
-## Useful Bash aliases
+## My bash aliases
+Here are some bash aliases I find useful
 
-one liner to install alll these aliases (Don't run twice)
+* one liner you can paste on the terminal to install these aliases
 ```bash
 wget https://git.io/JfmO0 -O - >> ~/.bashrc && source ~/.bashrc
 ```
