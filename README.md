@@ -6,19 +6,15 @@
 * ```a2path``` - Exports current directory to $PATH
 * ```gh``` - Search bash history for command
 * ```rebash``` - Reload bashrc
-
- [source](src/alias.md)
-
 ---
 
 ## Shell prompts
-* Regular user
 ![](https://i.imgur.com/V3taYed.png)
+Regular user Prompt
 
-* Root user
 ![](https://i.imgur.com/MFYDfV1.png)
+Root user Promt
 
----
 ## Installation
 Set up everything
 ```
@@ -34,4 +30,7 @@ Set up bash prompts only
 ```
 wget https://git.io/JfOhN -O - >> ~/.bashrc && source ~/.bashrc
 ```
-
+### How the install one liners work
+* Download resources with ```wget```
+* Append output to ~/.bashrc 
+* Reload bash configuration with ```source``
