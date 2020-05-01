@@ -15,6 +15,8 @@ Regular user Prompt
 ![](https://i.imgur.com/MFYDfV1.png)
 Root user Promt
 
+---
+
 ## Installation
 Set up everything
 ```
