@@ -1,5 +1,4 @@
 # Aliases
-Copy and paste to your terminal to immediately setup these aliases
 
 * Create a folder named today's date (YYYY-MM-DD)
 ```
@@ -21,3 +20,8 @@ echo "alias gh='history|grep'" >> ~/.bashrc && source ~/.bashrc
 ```
 echo "alias rebash='source ~/.bashrc'" >>~/.bashrc && source ~/.bashrc
 ```
+
+### How the install commands work
+* print alias to stdin with ```echo```
+* append to ~/.bashrc with the ```>>``` operator
+* finaly reload bash configuration with ```source```
