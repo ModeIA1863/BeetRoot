@@ -7,6 +7,7 @@
 * ```gh``` - Search bash history for command
 * ```rebash``` - Reload bashrc
 
+---
 
 ## Shell prompts
 ### Modern 
@@ -16,7 +17,7 @@
 * Root user
 ![](https://i.imgur.com/MFYDfV1.png)
 
-
+---
 ## Installation
 Set up everything
 ```
