@@ -1,7 +1,3 @@
-One liner to set everything up
-```bash
-wget https://git.io/JfOhH -O - >> ~/.bashrc && source ~/.bashrc
-```
 
 ##  Aliases
 
@@ -11,11 +7,7 @@ wget https://git.io/JfOhH -O - >> ~/.bashrc && source ~/.bashrc
 * ```gh``` - Search bash history for command
 * ```rebash``` - Reload bashrc
 
-One liner to set up the above aliases
 
-```bash
-wget https://git.io/JfOhr -O - >> ~/.bashrc && source ~/.bashrc
-```
 ## Shell prompts
 ### Modern 
 * Regular user
@@ -23,7 +15,20 @@ wget https://git.io/JfOhr -O - >> ~/.bashrc && source ~/.bashrc
 
 * Root user
 ![](https://i.imgur.com/MFYDfV1.png)
-One liner to set up the above prompts
+
+
+## Installation
+Set up everything
+```
+wget https://git.io/JfOhH -O - >> ~/.bashrc && source ~/.bashrc
+```
+Set up bash aliases only
+
+```bash
+wget https://git.io/JfOhr -O - >> ~/.bashrc && source ~/.bashrc
+```
+Set up bash prompts only
+
 ```bash
 wget https://git.io/JfOhN -O - >> ~/.bashrc && source ~/.bashrc
 ```
