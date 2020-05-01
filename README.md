@@ -13,7 +13,7 @@ wget https://git.io/JfmO0 -O - >> ~/.bashrc && source ~/.bashrc
 ```
 [source](/bash_aliases)
 ### Shell prompts
-##### 1) Modern prompt
+1) Modern 
 * Regular user
 ![](https://i.imgur.com/V3taYed.png)
 
