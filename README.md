@@ -9,7 +9,7 @@
 ---
 
 ## Shell prompts
-Regular and root user prompts
+My regular and root user prompts
 ![Regular user Prompt](https://i.imgur.com/7sP936r.png)
 
 ![Root user Promt](https://i.imgur.com/nZRfO7L.png)
