@@ -1,4 +1,4 @@
-###  Aliases
+##  Aliases
 
 * ```mkymd``` - Create a folder named today's date eg: 2020-02-22
 * ```sau``` - Shortcut to upgrade debian based systems
@@ -11,8 +11,8 @@ One liner to set up all the above aliases
 ```bash
 wget https://git.io/JfmO0 -O - >> ~/.bashrc && source ~/.bashrc
 ```
-### Shell prompts
-1) Modern 
+## Shell prompts
+### Modern 
 * Regular user
 ![](https://i.imgur.com/V3taYed.png)
 
