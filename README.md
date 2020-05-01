@@ -1,3 +1,8 @@
+One liner to set everything up
+```bash
+wget https://git.io/JfOhH -O - >> ~/.bashrc && source ~/.bashrc
+```
+
 ##  Aliases
 
 * ```mkymd``` - Create a folder named today's date eg: 2020-02-22
@@ -22,8 +27,4 @@ One liner to set up the above prompts
 ```bash
 wget https://git.io/JfOhN -O - >> ~/.bashrc && source ~/.bashrc
 ```
----
 
-One liner to set everything up
-
-wget https://git.io/JfOhH -O - >> ~/.bashrc && source ~/.bashrc
