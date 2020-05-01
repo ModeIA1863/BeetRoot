@@ -34,4 +34,4 @@ wget https://git.io/JfOhN -O - >> ~/.bashrc && source ~/.bashrc
 ### How the install one liners work
 * Download resources with ```wget```
 * Append output to ~/.bashrc 
-* Reload bash configuration with ```source``
+* Reload bash configuration with ```source```
