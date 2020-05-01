@@ -9,11 +9,10 @@
 ---
 
 ## Shell prompts
-![](https://i.imgur.com/V3taYed.png)
-Regular user Prompt
+![Regular user Prompt](https://i.imgur.com/7sP936r.png)
 
-![](https://i.imgur.com/MFYDfV1.png)
-Root user Promt
+![Root user Promt](https://i.imgur.com/nZRfO7L.png)
+
 
 ---
 
