@@ -1,4 +1,6 @@
-# BeetRoot.
+# BeetRoot
+## Buyer Beware 	•͡˘㇁•͡˘ 
+Use at your own risk
 
 ##  Aliases
 * ```mkymd``` - Create a folder named today's date eg: 2020-02-22
@@ -10,6 +12,10 @@
 Regular & Root prompts:
 ![Regular user Prompt](https://i.imgur.com/7sP936r.png)
 ![Root user Promt](https://i.imgur.com/nZRfO7L.png)
+---
+
+### Ubuntu Prompt 
+![]()
 ---
 ## Installation
 Set up everything
