@@ -9,13 +9,13 @@ Use at your own risk
 * ```gh``` - Search bash history for command
 * ```rebash``` - Reload bashrc
 ## Shell prompts
-Regular & Root prompts:
+### Regular & Root prompts:
 ![Regular user Prompt](https://i.imgur.com/7sP936r.png)
 ![Root user Promt](https://i.imgur.com/nZRfO7L.png)
----
 
 ### Ubuntu Prompt 
-![]()
+![Ubuntu prompt](https://i.imgur.com/oS6mtDi.png)
+
 ---
 ## Installation
 Set up everything
