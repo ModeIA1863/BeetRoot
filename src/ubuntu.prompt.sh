@@ -1,1 +1,2 @@
+# Ubuntu Prompt
 PS1="\[\033[38;5;m\][\[$(tput sgr0)\] \[$(tput sgr0)\]\[\033[38;5;13m\]\@\[$(tput sgr0)\] \[$(tput sgr0)\]\[\033[38;5;7m\]]\[$(tput sgr0)\] \[$(tput sgr0)\]\[\033[38;5;208m\]\u@\h\[$(tput sgr0)\] \[$(tput sgr0)\]\[\033[38;5;12m\]\w\[$(tput sgr0)\] \[$(tput sgr0)\]\[\033[38;5;208m\]\\$\[$(tput sgr0)\]\n\[$(tput sgr0)\]\[\033[01;38;5;13m\]❯\[$(tput sgr0)\]\[\033[01;38;5;208m\]❯\[$(tput sgr0)\]\[\033[01;38;5;251m\]❯\[$(tput sgr0)\] \[$(tput sgr0)\]"
