@@ -26,9 +26,13 @@ Set up bash aliases only
 ```
 wget https://git.io/JfOhr -O - >> ~/.bashrc && source ~/.bashrc
 ```
-Set up bash prompts only
+Set up regular & root bash prompts only
 ```
 wget https://git.io/JfOhN -O - >> ~/.bashrc && source ~/.bashrc
+```
+Set up ubuntu colors prompt only
+```
+wget https://git.io/Jfs3O -O - >> ~/.bashrc && source ~/.bashrc
 ```
 ### How the install one-liner commands work
 * Download resources with ```wget```
