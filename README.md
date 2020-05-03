@@ -26,7 +26,7 @@ Set up bash aliases only
 ```
 wget https://git.io/JfOhr -O - >> ~/.bashrc && source ~/.bashrc
 ```
-Set up regular & root bash prompts only
+Set up regular and root prompts only
 ```
 wget https://git.io/JfOhN -O - >> ~/.bashrc && source ~/.bashrc
 ```
