@@ -6,6 +6,7 @@
 * ```gh``` - Search bash history for command
 * ```rebash``` - Reload bashrc
 
+Install
 ```
 wget https://git.io/JfOhr -O - >> ~/.bashrc && source ~/.bashrc
 ```
@@ -15,6 +16,7 @@ wget https://git.io/JfOhr -O - >> ~/.bashrc && source ~/.bashrc
 ![Regular user Prompt](https://i.imgur.com/7sP936r.png)
 ![Root user Promt](https://i.imgur.com/nZRfO7L.png)
 
+Install
 ```
 wget https://git.io/JfOhN -O - >> ~/.bashrc && source ~/.bashrc
 ```
@@ -22,12 +24,13 @@ wget https://git.io/JfOhN -O - >> ~/.bashrc && source ~/.bashrc
 ### Ubuntu Prompt 
 ![Ubuntu prompt](https://i.imgur.com/oS6mtDi.png)
 
+Install
 ```
 wget https://git.io/Jfs3O -O - >> ~/.bashrc && source ~/.bashrc
 ```
 ---
 
-Set up everything
+Install everything bash
 ```
 wget https://git.io/JfOhH -O - >> ~/.bashrc && source ~/.bashrc
 ```
