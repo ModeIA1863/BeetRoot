@@ -10,6 +10,7 @@ Install Aliases
 ```
 wget https://git.io/JfOhr -O - >> ~/.bashrc && source ~/.bashrc
 ```
+---
 
 ## Prompts
 ### Regular & Root prompts:
@@ -30,7 +31,7 @@ wget https://git.io/Jfs3O -O - >> ~/.bashrc && source ~/.bashrc
 ```
 ---
 
-Install aliases and prompts
+Install everything
 ```
 wget https://git.io/JfOhH -O - >> ~/.bashrc && source ~/.bashrc
 ```
