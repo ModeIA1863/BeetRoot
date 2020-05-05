@@ -1,5 +1,5 @@
 # BeetRoot
-## Buyer Beware 	¯\(°_o)/¯
+Buyer Beware 	¯\(°_o)/¯. 
 Use at your own risk
 
 ##  Aliases
