@@ -1,11 +1,5 @@
-Set up everything
-
-```
-wget https://git.io/JfOhH -O - >> ~/.bashrc && source ~/.bashrc
-```
----
-
-# Aliases
+# Bash
+## Aliases
 * ```mkymd``` - Create a folder named today's date eg: 2020-02-22
 * ```sau``` - Shortcut to upgrade debian based systems
 * ```a2path``` - Exports current directory to $PATH
@@ -17,8 +11,8 @@ Set up bash aliases only
 wget https://git.io/JfOhr -O - >> ~/.bashrc && source ~/.bashrc
 ```
 
-# Shell prompts
-## Regular & Root prompts:
+## Prompts
+### Regular & Root prompts:
 ![Regular user Prompt](https://i.imgur.com/7sP936r.png)
 ![Root user Promt](https://i.imgur.com/nZRfO7L.png)
 
@@ -27,7 +21,7 @@ Set up regular and root prompts only
 wget https://git.io/JfOhN -O - >> ~/.bashrc && source ~/.bashrc
 ```
 
-## Ubuntu Prompt 
+### Ubuntu Prompt 
 ![Ubuntu prompt](https://i.imgur.com/oS6mtDi.png)
 
 Set up ubuntu colors prompt only
@@ -35,6 +29,13 @@ Set up ubuntu colors prompt only
 wget https://git.io/Jfs3O -O - >> ~/.bashrc && source ~/.bashrc
 ```
 ---
+
+Set up everything
+
+```
+wget https://git.io/JfOhH -O - >> ~/.bashrc && source ~/.bashrc
+```
+
 ### How the setup commands work
 * Download resources with ```wget```
 * Append output to ~/.bashrc 
